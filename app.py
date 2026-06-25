@@ -1753,4 +1753,4 @@ with tab4:
             st.info("All tasks done! Add more to break down.")
         st.markdown('</div>', unsafe_allow_html=True)
 
-st.markdown('<div style="text-align:center;padding:2rem 0 1rem;color:var(--muted);font-size:0.8rem">Built with ⚡ Gemini AI · Google Cloud · Streamlit &nbsp;|&nbsp; Vibe2Ship Hackathon 2026</div>', unsafe_allow_html=True)v
+st.markdown('<div style="text-align:center;padding:2rem 0 1rem;color:var(--muted);font-size:0.8rem">Built with ⚡ Gemini AI · Google Cloud · Streamlit &nbsp;|&nbsp; Vibe2Ship Hackathon 2026</div>', unsafe_allow_html=True)
